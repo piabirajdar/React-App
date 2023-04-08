@@ -3,7 +3,7 @@
 
 
 
-# Parcel is a Beast
+## Parcel is a Beast
 - Dev Build
 - Local Server
 - HMR - Hot Module Replacement
