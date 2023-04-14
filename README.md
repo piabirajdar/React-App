@@ -17,3 +17,5 @@
 - HEADER - LOGO, NAV ITEMS
 - BODY - SEARCH , RestaurantContainer(RestaurantCard - Img, (Name of Res, Star Rating, Cuisine))
 - FOOTER - Copywrite, Links, Address, Contact
+
+## GET SWIGGY FOOD DELIVERY APP RESPONSE AND BUILD REACT APP
